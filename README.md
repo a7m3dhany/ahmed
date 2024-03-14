@@ -1,8 +1,8 @@
 #  🖤 **DARK**
 
-![Profile views](https://gpvc.arturio.dev/jepthoniq)
+![Profile views](https://gpvc.arturio.dev/a7m3dhany)
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=jepthoniq&show_icons=true&theme=synthwave)](https://github.com/a7m3dhany)
+[![github stats](https://github-readme-stats.vercel.app/api?username=a7m3dhany&show_icons=true&theme=synthwave)](https://github.com/a7m3dhany)
 
 
 #### **دارك**:
